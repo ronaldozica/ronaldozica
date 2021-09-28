@@ -9,7 +9,6 @@ Olá! Meu nome é Ronaldo Mendonça Zica e sou estudante de Engenharia de Comput
 <img style="width:400px" align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldozica&layout=compact"/>
 <img style="width:500px" align='center' src="https://github-readme-stats.vercel.app/api?username=ronaldozica&show_icons=true&theme=tokyonight"/>
 </p>
-<br /><br /><br /><br /><br /><br /><br /><br />
 
 ### Fala comigo!
 <p align="left">
