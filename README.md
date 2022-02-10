@@ -3,7 +3,7 @@
 <a href="https://www.enxurradadebits.cefetmg.br/">
 <img style="width:80px;height:80px" align="right" alt="Enxurrada de Bits" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhYznUSx1KJz6eA34YH8H1dGpCXhyAmRJ4TJxMsQZ2iuYZsoVyIi7TQW4KL0aJ5gQ4acU&usqp=CAU">
 </a>
-Olá! Meu nome é Ronaldo Mendonça Zica e sou estudante de Engenharia de Computação no CEFET-MG. Gosto muito de programar e aprender sobre novas tecnologias. Também sou monitor de robótica no projeto Enxurrada de Bits.
+Olá! Meu nome é Ronaldo Mendonça Zica e sou estudante de Engenharia de Computação no CEFET-MG. Gosto muito de programar e aprender sobre novas tecnologias.
 
 ### Github Overview
 <p>
