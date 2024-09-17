@@ -1,7 +1,11 @@
 ## Hello World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 Hello! My name is Ronaldo Mendonça, I am a graduating student in Computer Engineering at CEFET-MG, a technician in Electronics from CEFET-MG, and I am currently working as a Software Engineer Trainee. I am interested in software development.
-<br>
+
+</p>
+<br />
+</p>
+
 Olá! Meu nome é Ronaldo Mendonça, sou formando em Engenharia de Computação no CEFET-MG, técnico em Eletrônica pelo CEFET-MG e atualmente atuo como Software Engineer Trainee. Me interesso por desenvolvimento de software.
 
 ### Github Overview
