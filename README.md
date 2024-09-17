@@ -3,7 +3,9 @@
 <a href="https://www.enxurradadebits.cefetmg.br/">
 <img style="width:80px;height:80px" align="right" alt="Enxurrada de Bits" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhYznUSx1KJz6eA34YH8H1dGpCXhyAmRJ4TJxMsQZ2iuYZsoVyIi7TQW4KL0aJ5gQ4acU&usqp=CAU">
 </a>
-Olá! Meu nome é Ronaldo Mendonça Zica e sou estudante de Engenharia de Computação no CEFET-MG. Gosto muito de programar e aprender sobre novas tecnologias.
+Hello! My name is Ronaldo Mendonça, I am a graduating student in Computer Engineering at CEFET-MG, a technician in Electronics from CEFET-MG, and I am currently working as a Software Engineer Trainee. I am interested in software development.
+
+Olá! Meu nome é Ronaldo Mendonça, sou formando em Engenharia de Computação no CEFET-MG, técnico em Eletrônica pelo CEFET-MG e atualmente atuo como Software Engineer Trainee. Me interesso por desenvolvimento de software.
 
 ### Github Overview
 <p>
