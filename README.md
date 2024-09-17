@@ -10,7 +10,6 @@ Olá! Meu nome é Ronaldo Mendonça, sou formando em Engenharia de Computação 
 ### Github Overview
 <p>
 <img style="width:340px" align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldozica&layout=compact"/>
-<img style="width:410px" align='center' src="https://github-readme-stats.vercel.app/api?username=ronaldozica&show_icons=true&theme=tokyonight"/>
 </p>
 
 ### Fala comigo!
