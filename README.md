@@ -1,6 +1,6 @@
 ## Hello World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-Hello! My name is Ronaldo Mendonça, I am a graduating student in Computer Engineering at CEFET-MG, a technician in Electronics from CEFET-MG, and I am currently working as a Software Engineer Trainee. I am interested in software development.
+Hello! My name is Ronaldo Mendonça, I am a Computer Engineering graduate from CEFET-MG, an Electronics Technician from CEFET-MG and currently work as a Software Engineer Trainee. I am interested in software development.
 
 </p>
 <br />
