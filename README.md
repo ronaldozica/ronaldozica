@@ -8,11 +8,6 @@ Hello! My name is Ronaldo Mendonça, I am a Computer Engineering graduate from C
 
 Olá! Meu nome é Ronaldo Mendonça, sou formando em Engenharia de Computação no CEFET-MG, técnico em Eletrônica pelo CEFET-MG e atualmente atuo como Software Engineer Trainee. Me interesso por desenvolvimento de software.
 
-### Github Overview
-<p>
-<img style="width:340px" align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldozica&layout=compact"/>
-</p>
-
 ### Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/ronaldo-zica/">
